@@ -1,14 +1,27 @@
 ---
-title: "Post: Modified Date"
-last_modified_at: 2016-03-09T16:20:02-05:00
+title: "Post: Bangkok Trip"
+last_modified_at: 2025-03-15
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Bangkok
+  - 명륜진사갈비 홍보
+  - 여행
 ---
 
-This post has been updated and should show a modified date if used in a layout.
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+태국 여행을 여행을 갔다.
+방콕에 가서 아침 일찍 도착했는데 다행히도 이른 체크인이 가능해서 편하게 잘 수 있었다.
+잠에서 깨고 나서는 명륜진사갈비를 향했다. 
+아침을 안 먹은 상태라 많이 못 먹었지만 그래도 맛있었다.
+다음으로 쇼핑몰에 갔는데 매우 힘들었다. 
+돌아갈 때 퇴근 시간과 겹쳐서 호텔로 돌아가기 힘들었지만 다행히도 잘 돌아갔다.
+둘째 날, 조식을 먹고 방에서 쉬다가 골프를 치러 갔다. 
+내 동생은 아예 치지 않고 나와 부모님만 쳤다. 처음에는 잘 안되다가 드라이브에서 아빠보다 멀리 쳤다. 
+당연하게도 점심은 명륜진사갈비로 갔다.
+이번에는 많이 먹었다.
+셋째 날, 조식을 먹고 쉬다가 쇼핑몰을 걸어갔다. 쇼핑몰에서  엄마가 내 바지를 어떻게든 사보겠다고 난리를 치셨지만 잘 말리고 티셔츠 한 장 만 샀다. 
+점심은 당연하게도 명륜진사갈비로 갔다. 이번에는 친구를 만났다. 우정의 인사를 하고 밥을 먹었다. 
+마지막 날, 아침부터 조식 먹고 짐을 무게를 맞춰 놓고 호텔에 맞겨놨다. 그리고 쇼핑몰에 걸어가서 뭘 잔뜩 샀다. 
+점심은 이번에는 명륜진사갈비로 가지 않고 KIN 이라는 일본 식당에 갔다. 그리고 바로 마사지 샵에 가서 마사지를 받고 공항으로 갔다. 저녁은 KFC 먹고 걍 놀았다. 
+집에 와서 잤다.
